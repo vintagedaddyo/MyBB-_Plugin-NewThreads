@@ -1,0 +1,8 @@
+Instructions:
+
+
+To upload plugin. extract the zip and upload the contents within "Upload" to the root forum folder and activate the plugin.
+
+Visit http://www.website.com/new.php to create a new topic and select from a  list of all the forums to select the forum to post the item!
+
+Regards!
